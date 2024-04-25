@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NadOth
+- 👋 Hi, I’m @Nadjet
 - 👀 I’m interested in programition
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on advandced programming
